@@ -1,0 +1,86 @@
+---
+layout: post
+title: "2014년 08월 14일 목요일"
+date: 2014-08-14 20:00:30 +0900
+comments: true
+categories: scrum
+---
+
+<div class="alert alert-info">
+  BuildBuild 팀은 협업의 효율성을 높이고 현재 개발 상황을 공유하기 위하여
+  프로젝트를 관리하기 위하여 애자일 개발 방법론 중 스크럼 방법론을 사용하고 있습니다.
+  보다 자세한 내용은 다음 포스트에서 확인하실 수 있습니다.
+</div>
+
+<table class="table">
+  <tr>
+    <th></th>
+    <th>어제 한 일</th>
+    <th>오늘 할 일</th>
+  </tr>
+  <tr>
+    <th>@wikibootup</th>
+    <td>
+      <ul>
+        <li>서버 PC 견적 알아보기</li>
+        <li>짝 프로그래밍 ( @BOBTommy )</li>
+        <li>Team Model Validation ( <a href="https://github.com/buildbuild/buildbuild/pull/19">https://github.com/buildbuild/buildbuild/pull/19</a> ) </li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>짝 프로그래밍 ( @BOBTommy )</li>
+        <li>Team Model Validation 완성하기</li>
+        <li>Team Model 관련 코드 작성</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th>@BOBTommy</th>
+    <td>
+      <ul>
+        <li>짝 프로그래밍 ( @wikibootup )</li>
+        <li> Team Model Validation ( <a href="https://github.com/buildbuild/buildbuild/pull/19">https://github.com/buildbuild/buildbuild/pull/19</a> ) </li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>짝 프로그래밍 ( @wikibootup )</li>
+        <li>Team ~ User 초대하기 기능 설계하기</li>
+        <li>Team ~ User 초대하기 기능 구현하기</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th>@dobestan</th>
+    <td>
+      <ul>
+        <li>짝 프로그래밍 ( @o8151814 )</li>
+        <li>Project Model ( <a href="https://github.com/buildbuild/buildbuild/pull/18">https://github.com/buildbuild/buildbuild/pull/18</a> ) </li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>짝 프로그래밍 ( @o8151814 )</li>
+        <li>BuildBuild 블로그 설정하기</li>
+        <li>REST Framework > API Authentication</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th>@o8151814</th>
+    <td>
+      <ul>
+        <li>짝 프로그래밍 ( @dobestan )</li>
+        <li>Project Model ( <a href="https://github.com/buildbuild/buildbuild/pull/18">https://github.com/buildbuild/buildbuild/pull/18</a> ) </li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>짝 프로그래밍 ( @dobestan )</li>
+        <li>Project Model Validation + Test</li>
+        <li>Refactoring Test Code</li>
+      </ul>
+    </td>
+  </tr>
+</table>
