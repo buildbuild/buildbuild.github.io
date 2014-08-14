@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://buildbuild.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: BuildBuild
+subtitle: Software Maestro 5th BuildBuild Team Tech Blog
+author: buildbuild
 simple_search: https://www.google.com/search
 description:
 
@@ -64,8 +64,8 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user:
-github_repo_count: 0
+github_user: buildbuild
+github_repo_count: 10
 github_show_profile_link: true
 github_skip_forks: true
 
