@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[BuildBuild]]></title>
-  <link href="http://buildbuild.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: scrum | BuildBuild]]></title>
+  <link href="http://buildbuild.github.io/blog/categories/scrum/atom.xml" rel="self"/>
   <link href="http://buildbuild.github.io/"/>
   <updated>2014-08-14T21:12:06+09:00</updated>
   <id>http://buildbuild.github.io/</id>
@@ -100,16 +100,6 @@
   </tr>
 </table>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[BuildBuild 기술 블로그를 시작하다]]></title>
-    <link href="http://buildbuild.github.io/blog/2014/08/14/start-blog/"/>
-    <updated>2014-08-14T19:55:36+09:00</updated>
-    <id>http://buildbuild.github.io/blog/2014/08/14/start-blog</id>
-    <content type="html"><![CDATA[<p>소프트웨어 마에스트로 5기 BuildBuild Project이 기술 블로그를 시작하였습니다.
-많은 관심 부탁드립니다.</p>
 ]]></content>
   </entry>
   
